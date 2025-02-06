@@ -25,3 +25,6 @@ This is a simple Python-based file manager application that allows users to simu
 
    ```bash
    python file_manager.py
+
+## Video Demo
+https://github.com/user-attachments/assets/3369cd4c-1606-41f1-9572-a4185510e439
